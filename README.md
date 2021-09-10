@@ -11,8 +11,7 @@
 - 🌱 I’m currently learning front-end technologies like Node JS and React JS 
 - 💞️ I’m looking to collaborate on freelancing projects and troubledshooting the issues being faced by other developers across the globe.
 - 📫 You can reach out to me via below channels:
-    - LinkedIn - https://www.linkedin.com/in/masterrahul
-    - Email - rranjan1699@outlook.com
+    - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/masterrahul) &nbsp; 📧 rranjan1699@outlook.com
 
 <!---
 ranjan-projects/ranjan-projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
